@@ -1,0 +1,58 @@
+Nav Oscuro #111111
+Fondo #0a0e13
+Negro #000000
+
+
+
+SUMMONER V4 
+
+Request -> Just Keep Going
+
+Response 
+{
+    "id": "TYaYA3h4BbZczOJOHWXJg0AMnLyIsrCPjxypLHKpBlBaXCU",
+    "accountId": "N-yIblZ7122XMoHDvcTM5JjOknmFu_SE12LgNn9e34BS_cD9e5tXiMML",
+    "puuid": "gG0LXB7fvn3A1UtsaKz3JdY_3o8VxQil8hFP-iU1h1EzQb8NFqpNsEpyKvSYd1JoQGUmgZfKl2NJpA",
+    "name": "Just keep going",
+    "profileIconId": 4354,
+    "revisionDate": 1641491059000,
+    "summonerLevel": 250
+}
+
+MATCH V5
+
+Request -> puuid
+
+Response
+[
+    "LA1_1191245737",
+    "LA1_1191271530",
+    "LA1_1191189798",
+    "LA1_1191175326",
+    "LA1_1191139834",
+    "LA1_1189373132",
+    "LA1_1189329857",
+    "LA1_1185546134",
+    "LA1_1185535131",
+    "LA1_1185552745",
+    "LA1_1185174013",
+    "LA1_1185159639",
+    "LA1_1185126465",
+    "LA1_1185038375",
+    "LA1_1185026211",
+    "LA1_1184761752",
+    "LA1_1184686885",
+    "LA1_1184713459",
+    "LA1_1184691598",
+    "LA1_1184302793"
+]
+
+Info sobre rankeds de un summoner
+
+LEAGUE V4
+
+Request -> id
+
+Response 
+
+
